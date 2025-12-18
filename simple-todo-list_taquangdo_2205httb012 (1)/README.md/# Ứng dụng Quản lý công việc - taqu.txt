@@ -1,0 +1,15 @@
+# Ứng dụng Quản lý công việc - taquangdo_2205httb012
+
+Ứng dụng quản lý công việc cá nhân đơn giản theo bài tập.
+
+Đã thực hiện đầy đủ:
+- Xác thực người dùng (đăng ký, đăng nhập, đăng xuất)
+- Băm mật khẩu
+- 2 bảng users và tasks đúng yêu cầu
+- CRUD công việc chỉ của user đang đăng nhập
+
+Hướng dẫn chạy:
+1. Import sql/database.sql vào database quanlycongviec
+2. Truy cập /public/login.php
+
+Tác giả: Tạ Quang Đô - 2205HTTB012
