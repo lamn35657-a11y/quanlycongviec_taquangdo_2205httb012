@@ -1,0 +1,16 @@
+# Ứng dụng Quản lý công việc - taquangdo_2205httb012
+
+Ứng dụng quản lý công việc cá nhân đơn giản (Simple To-Do List Application).
+
+## Chức năng
+- Đăng ký, đăng nhập, đăng xuất.
+- Quản lý công việc cá nhân: thêm, sửa, xóa, thay đổi trạng thái.
+- Công việc chỉ của user đang đăng nhập.
+- Giao diện Bootstrap.
+
+## Hướng dẫn cài đặt
+1. Tạo database `quanlycongviec` và import sql/database.sql.
+2. Chỉnh config/db.php nếu cần.
+3. Truy cập http://localhost/quanlycongviec_taquangdo_2205httb012/public/login.php
+
+Tác giả: Tạ Quang Đô - 2205HTTB012
